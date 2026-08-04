@@ -1,3 +1,4 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6a0dad&height=200&section=header&text=Youcef%20Djoudi&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=An%20Electronics%20Enthusiast&descAlignY=55&descSize=18)
 # Hi 👋, I'm Youcef
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Youcef-Djoudi&color=blueviolet&style=flat)
